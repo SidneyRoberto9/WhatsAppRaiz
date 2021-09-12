@@ -1,0 +1,1 @@
+gcc Main.c menu.c conta.c contatos.c grupo.c Socket.c ult.c -o start.exe -l Ws2_32
